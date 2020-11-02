@@ -4,7 +4,7 @@ Veriseti 83 adet görüntüden oluşmuş olup bu görüntülerden 72'si hasta, 1
 
 Roboflow aracı üzerinden RetinaNet Keras formatında csv dosyası çıkarma seçeneği seçilerek bu görüntülerden _annotationsFromRoboflow.csv isimli csv dosyası elde edilmiştir.  
 
-Verisetinde tek bir görüntüde birden fazla taş ve kateter bulabildiği için aynı görüntü için birden fazla taş ve kateter konumları satır bazında çıkarılmıştır. 
+Verisetinde tek bir görüntüde birden fazla taş ve kateter bulunabildiği için aynı görüntü için birden fazla taş ve kateter konumları satır bazında çıkarılmıştır. 
 
 Elde edilen bu csv dosyası üzerinde düzenlemeler yapılarak retinaNet.csv dosyası program içerisinde kullanılmıştır. İmage isimleri silinmiş, Stone olarak etiketli veriler S, dj_cateter olarak etiketlenen veriler C olarak değiştirilmiştir.
 
