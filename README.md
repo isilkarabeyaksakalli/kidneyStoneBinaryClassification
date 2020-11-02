@@ -8,5 +8,5 @@ Daha sonra bu csv dosyası üzerinde düzenlemeler yapılarak retinaNet.csv dosy
 
 Bu verisetinde sadece hasta verileri yer almaktadır. Sağlıklı kişilerin görüntülerinde etiketleme yapılmadığı için VoTT aracından export edilmemiştir.
 
-Baseline sınıflandırma sonucu 93.13% (11.64%) bulunmuştur.
+Baseline sınıflandırma sonucu 96.98% (3.70%) bulunmuştur.
 
