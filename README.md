@@ -1,6 +1,6 @@
 
 
-Veriseti 83 adet görüntüden oluşmuş olup bu görüntülerden 72'si hasta, 11'i sağlıklıdır. voTT etiketleme aracı ile  72 adet görüntü etiketlenmiştir. voTT klasörü içerisinde etiketli verilerin json dosyaları yer almaktadır.
+Veriseti 83 adet görüntüden oluşmuş olup bu görüntülerden 72'si hasta, 11'i sağlıklıdır. voTT etiketleme aracı ile  72 adet görüntü etiketlenmiştir. voTT klasörü içerisinde orijinal görüntüler ve etiketli görüntülerin json dosyaları yer almaktadır.
 
 Roboflow aracı üzerinden RetinaNet Keras formatında csv dosyası çıkarma seçeneği seçilerek bu görüntülerden _annotationsFromRoboflow.csv isimli csv dosyası elde edilmiştir.  
 
