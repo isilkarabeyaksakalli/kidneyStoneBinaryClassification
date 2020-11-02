@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8d1e8e10755f3b965dd032663061470f",
+        "name": "ellibir.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/ellibir.jpg",
+        "size": {
+            "width": 818,
+            "height": 818
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dwZ9K6-_x",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 725.4880952380953,
+                "width": 255.40367965367966,
+                "left": 393.9502164502165,
+                "top": 92.51190476190477
+            },
+            "points": [
+                {
+                    "x": 393.9502164502165,
+                    "y": 92.51190476190477
+                },
+                {
+                    "x": 649.3538961038961,
+                    "y": 92.51190476190477
+                },
+                {
+                    "x": 649.3538961038961,
+                    "y": 818
+                },
+                {
+                    "x": 393.9502164502165,
+                    "y": 818
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

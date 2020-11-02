@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "fa0dafbb7791972bf4ce76244ed73846",
+        "name": "yirmidort.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yirmidort.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XS1_lGZLx",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 617.465909090909,
+                "width": 243.4089056324111,
+                "left": 275.52569169960475,
+                "top": 89.96482683982684
+            },
+            "points": [
+                {
+                    "x": 275.52569169960475,
+                    "y": 89.96482683982684
+                },
+                {
+                    "x": 518.9345973320159,
+                    "y": 89.96482683982684
+                },
+                {
+                    "x": 518.9345973320159,
+                    "y": 707.4307359307359
+                },
+                {
+                    "x": 275.52569169960475,
+                    "y": 707.4307359307359
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

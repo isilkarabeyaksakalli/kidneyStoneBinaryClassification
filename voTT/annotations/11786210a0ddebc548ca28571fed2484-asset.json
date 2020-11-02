@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "11786210a0ddebc548ca28571fed2484",
+        "name": "kirksekiz.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/kirksekiz.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "N6fXdwkQI",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 616.588203463203,
+                "width": 229.10888092885386,
+                "left": 336.8594985177865,
+                "top": 128.14502164502164
+            },
+            "points": [
+                {
+                    "x": 336.8594985177865,
+                    "y": 128.14502164502164
+                },
+                {
+                    "x": 565.9683794466404,
+                    "y": 128.14502164502164
+                },
+                {
+                    "x": 565.9683794466404,
+                    "y": 744.7332251082246
+                },
+                {
+                    "x": 336.8594985177865,
+                    "y": 744.7332251082246
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "11ebdedb07acad62e875f356808f9271",
+        "name": "yirmibes.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yirmibes.jpg",
+        "size": {
+            "width": 677,
+            "height": 813
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yjB8bbR52",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 580.7142857142858,
+                "width": 254.0948051948052,
+                "left": 125.48129058441559,
+                "top": 178.61363636363637
+            },
+            "points": [
+                {
+                    "x": 125.48129058441559,
+                    "y": 178.61363636363637
+                },
+                {
+                    "x": 379.5760957792208,
+                    "y": 178.61363636363637
+                },
+                {
+                    "x": 379.5760957792208,
+                    "y": 759.3279220779222
+                },
+                {
+                    "x": 125.48129058441559,
+                    "y": 759.3279220779222
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

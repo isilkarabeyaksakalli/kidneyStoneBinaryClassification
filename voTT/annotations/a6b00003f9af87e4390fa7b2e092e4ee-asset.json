@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a6b00003f9af87e4390fa7b2e092e4ee",
+        "name": "yirmiiki.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yirmiiki.jpg",
+        "size": {
+            "width": 668,
+            "height": 815
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "QyO24vNBm",
+            "type": "RECTANGLE",
+            "tags": [
+                "stone"
+            ],
+            "boundingBox": {
+                "height": 23.814935064935067,
+                "width": 19.828496042216358,
+                "left": 332.8295679419525,
+                "top": 717.5351731601731
+            },
+            "points": [
+                {
+                    "x": 332.8295679419525,
+                    "y": 717.5351731601731
+                },
+                {
+                    "x": 352.65806398416885,
+                    "y": 717.5351731601731
+                },
+                {
+                    "x": 352.65806398416885,
+                    "y": 741.3501082251082
+                },
+                {
+                    "x": 332.8295679419525,
+                    "y": 741.3501082251082
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

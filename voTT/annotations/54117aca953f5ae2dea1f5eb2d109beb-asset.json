@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "54117aca953f5ae2dea1f5eb2d109beb",
+        "name": "ellialti.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/ellialti.jpg",
+        "size": {
+            "width": 677,
+            "height": 813
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "PTAUGAhnc",
+            "type": "RECTANGLE",
+            "tags": [
+                "stone"
+            ],
+            "boundingBox": {
+                "height": 25.95616883116883,
+                "width": 22.85974025974026,
+                "left": 281.5429788961039,
+                "top": 615.0292207792209
+            },
+            "points": [
+                {
+                    "x": 281.5429788961039,
+                    "y": 615.0292207792209
+                },
+                {
+                    "x": 304.4027191558442,
+                    "y": 615.0292207792209
+                },
+                {
+                    "x": 304.4027191558442,
+                    "y": 640.9853896103897
+                },
+                {
+                    "x": 281.5429788961039,
+                    "y": 640.9853896103897
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

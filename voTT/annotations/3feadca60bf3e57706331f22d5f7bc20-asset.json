@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3feadca60bf3e57706331f22d5f7bc20",
+        "name": "kirkyedi.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/kirkyedi.jpg",
+        "size": {
+            "width": 677,
+            "height": 813
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "g2on6w6mG",
+            "type": "RECTANGLE",
+            "tags": [
+                "stone"
+            ],
+            "boundingBox": {
+                "height": 23.316558441558442,
+                "width": 14.067532467532468,
+                "left": 325.94362824675324,
+                "top": 593.0324675324675
+            },
+            "points": [
+                {
+                    "x": 325.94362824675324,
+                    "y": 593.0324675324675
+                },
+                {
+                    "x": 340.0111607142857,
+                    "y": 593.0324675324675
+                },
+                {
+                    "x": 340.0111607142857,
+                    "y": 616.349025974026
+                },
+                {
+                    "x": 325.94362824675324,
+                    "y": 616.349025974026
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e7a631db3d2d2a8b1d08d1ed7dcf117f",
+        "name": "yetmisbes.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yetmisbes.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "G5LG5vTD0",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 589.3793290043288,
+                "width": 254.816020256917,
+                "left": 285.17786561264825,
+                "top": 39.057900432900425
+            },
+            "points": [
+                {
+                    "x": 285.17786561264825,
+                    "y": 39.057900432900425
+                },
+                {
+                    "x": 539.9938858695652,
+                    "y": 39.057900432900425
+                },
+                {
+                    "x": 539.9938858695652,
+                    "y": 628.4372294372293
+                },
+                {
+                    "x": 285.17786561264825,
+                    "y": 628.4372294372293
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

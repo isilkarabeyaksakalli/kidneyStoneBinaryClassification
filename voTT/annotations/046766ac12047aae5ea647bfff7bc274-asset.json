@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "046766ac12047aae5ea647bfff7bc274",
+        "name": "ondort.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/ondort.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "8fGhpUnjU",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 385.7516233766233,
+                "width": 101.8756793478261,
+                "left": 295.618391798419,
+                "top": 410.3273809523809
+            },
+            "points": [
+                {
+                    "x": 295.618391798419,
+                    "y": 410.3273809523809
+                },
+                {
+                    "x": 397.49407114624506,
+                    "y": 410.3273809523809
+                },
+                {
+                    "x": 397.49407114624506,
+                    "y": 796.0790043290042
+                },
+                {
+                    "x": 295.618391798419,
+                    "y": 796.0790043290042
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

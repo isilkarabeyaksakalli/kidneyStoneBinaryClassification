@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b552ee7e0b9b8d811689d0a19a77874e",
+        "name": "seksenuc.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/seksenuc.jpg",
+        "size": {
+            "width": 656,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_edXhYfiV",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 631.5091991341991,
+                "width": 168.3850267379679,
+                "left": 141.3760026737968,
+                "top": 140.43290043290042
+            },
+            "points": [
+                {
+                    "x": 141.3760026737968,
+                    "y": 140.43290043290042
+                },
+                {
+                    "x": 309.7610294117647,
+                    "y": 140.43290043290042
+                },
+                {
+                    "x": 309.7610294117647,
+                    "y": 771.9420995670995
+                },
+                {
+                    "x": 141.3760026737968,
+                    "y": 771.9420995670995
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

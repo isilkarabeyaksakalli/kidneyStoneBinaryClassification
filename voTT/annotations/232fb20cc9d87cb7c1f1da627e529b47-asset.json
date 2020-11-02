@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "232fb20cc9d87cb7c1f1da627e529b47",
+        "name": "altmis.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/altmis.jpg",
+        "size": {
+            "width": 677,
+            "height": 813
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "urGzyLJ6j",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 358.1071428571429,
+                "width": 110.34220779220779,
+                "left": 337.81310876623377,
+                "top": 406.06006493506493
+            },
+            "points": [
+                {
+                    "x": 337.81310876623377,
+                    "y": 406.06006493506493
+                },
+                {
+                    "x": 448.15531655844154,
+                    "y": 406.06006493506493
+                },
+                {
+                    "x": 448.15531655844154,
+                    "y": 764.1672077922078
+                },
+                {
+                    "x": 337.81310876623377,
+                    "y": 764.1672077922078
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

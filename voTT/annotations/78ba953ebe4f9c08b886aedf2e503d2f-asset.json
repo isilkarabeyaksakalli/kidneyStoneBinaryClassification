@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "78ba953ebe4f9c08b886aedf2e503d2f",
+        "name": "otuzalti.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/otuzalti.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2z0L5bln4",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 609.1277056277055,
+                "width": 211.38123764822134,
+                "left": 324.6640316205534,
+                "top": 68.02218614718615
+            },
+            "points": [
+                {
+                    "x": 324.6640316205534,
+                    "y": 68.02218614718615
+                },
+                {
+                    "x": 536.0452692687747,
+                    "y": 68.02218614718615
+                },
+                {
+                    "x": 536.0452692687747,
+                    "y": 677.1498917748917
+                },
+                {
+                    "x": 324.6640316205534,
+                    "y": 677.1498917748917
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

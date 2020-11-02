@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e046fec4819f8f4cba8725ec77e2f025",
+        "name": "altmisbir.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/altmisbir.jpg",
+        "size": {
+            "width": 677,
+            "height": 813
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XlfWg1-js",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 584.2337662337662,
+                "width": 157.57284902597402,
+                "left": 280.4714285714286,
+                "top": 168.93506493506493
+            },
+            "points": [
+                {
+                    "x": 280.4714285714286,
+                    "y": 168.93506493506493
+                },
+                {
+                    "x": 438.0442775974026,
+                    "y": 168.93506493506493
+                },
+                {
+                    "x": 438.0442775974026,
+                    "y": 753.1688311688312
+                },
+                {
+                    "x": 280.4714285714286,
+                    "y": 753.1688311688312
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

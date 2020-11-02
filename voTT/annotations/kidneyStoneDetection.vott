@@ -1,0 +1,1045 @@
+{
+    "name": "kidneyStoneDetection",
+    "securityToken": "kidneyStoneDetection Token",
+    "sourceConnection": {
+        "name": "images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDg4ZjdkNDljZjBhOTliODYyOTg3YWQyMWViNzhkZTI4NDVmYjkwNjZlMTNlMGQ4NDM2ZTRmZjc0ZTY3MzA4ZDllOGRhYmI4NjU1ZDQzZDczMDEwYjUyZjAxMGNmODYyODQ5ZDgxNjljZTY3YTBkMzQ4ZmUzZTNlY2ZkY2FlNTgiLCJpdiI6Ijk1YjI5YjBiYTk5YzA4Mzk2OGFjZjIxNTYzODZmY2NlOTJmZTVkNDYzNWZmYmQyZiJ9"
+        },
+        "id": "mBk7OBWgN"
+    },
+    "targetConnection": {
+        "name": "annotation",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNWMwYzZmYjNkMGNhNThmM2JmMGJmMzI1Y2ZmMDAxYWQxYmI1OGRiNGE1YWJkNWJlOTZiNTQ3MmE4NDgwMzdhMTkwNmI0ZDYzM2M3ZmFjNDQ3MWZiOGM5ZjMwZjI1YWQ3NjRkZmU1MGMwNTY2MjY0Y2I5Zjg2NWQ3Y2YzMDcwMzkiLCJpdiI6ImFlYzI0NDIxNWNiMDBiYjdhZGJkY2RiYTk4YmVkMzg3NjdjNzlmNDQzMGViMDE4YyJ9"
+        },
+        "id": "7Eof7U2fu"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "stone",
+            "color": "#000080"
+        },
+        {
+            "name": "dj_cateter",
+            "color": "#70c400"
+        }
+    ],
+    "id": "lM-Y6D2RE",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYjJmNDhmZDg4MTk2MmJkMTcwMWY3ZDc1YTZlMTg0NWZiNTA5YTVjZGExMzE2NGE5NjM4NzUxZmZmMzVmYWUzZmIyN2ZlODQ5NmM4Y2ZlNzgyOWJhN2U5Njg5MTc1YWM5IiwiaXYiOiJjNmI0M2NkODk0ODBlOTBkYzQ1ZDk5YmQ1NDBhODVkMjY4NDMwZWY3ZDIxMzhiYjMifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "d7563fad93dc5d4846781a6cbaa999a9",
+    "assets": {
+        "4d41237e5f7cdf587cde15dade68c535": {
+            "format": "jpg",
+            "id": "4d41237e5f7cdf587cde15dade68c535",
+            "name": "alti.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/alti.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "232fb20cc9d87cb7c1f1da627e529b47": {
+            "format": "jpg",
+            "id": "232fb20cc9d87cb7c1f1da627e529b47",
+            "name": "altmis.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmis.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa8551a2c82800582c83070c77471342": {
+            "format": "jpg",
+            "id": "aa8551a2c82800582c83070c77471342",
+            "name": "altmisalti.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmisalti.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e3cbc4054f68a19d9044c071143101f9": {
+            "format": "jpg",
+            "id": "e3cbc4054f68a19d9044c071143101f9",
+            "name": "altmisbes.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmisbes.jpg",
+            "size": {
+                "width": 795,
+                "height": 814
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e046fec4819f8f4cba8725ec77e2f025": {
+            "format": "jpg",
+            "id": "e046fec4819f8f4cba8725ec77e2f025",
+            "name": "altmisbir.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmisbir.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5801d382c5c5df1de9bd27de3026afd2": {
+            "format": "jpg",
+            "id": "5801d382c5c5df1de9bd27de3026afd2",
+            "name": "altmisdokuz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmisdokuz.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 1,
+            "type": 1
+        },
+        "67f014ca54c5dc11110aa4da778881de": {
+            "format": "jpg",
+            "id": "67f014ca54c5dc11110aa4da778881de",
+            "name": "altmisdort.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmisdort.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9d8ab5a4f27524481f4276273dafe014": {
+            "format": "jpg",
+            "id": "9d8ab5a4f27524481f4276273dafe014",
+            "name": "altmisiki.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmisiki.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f0418dce50d589a8606a1940d6986d5": {
+            "format": "jpg",
+            "id": "4f0418dce50d589a8606a1940d6986d5",
+            "name": "altmissekiz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmissekiz.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "127c43eb66d7f6cf8fc490efe548cbcf": {
+            "format": "jpg",
+            "id": "127c43eb66d7f6cf8fc490efe548cbcf",
+            "name": "altmisuc.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmisuc.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7a25cfcf00ffe6456dea814324f99f49": {
+            "format": "jpg",
+            "id": "7a25cfcf00ffe6456dea814324f99f49",
+            "name": "altmisyedi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/altmisyedi.jpg",
+            "size": {
+                "width": 790,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7563fad93dc5d4846781a6cbaa999a9": {
+            "format": "jpg",
+            "id": "d7563fad93dc5d4846781a6cbaa999a9",
+            "name": "bes.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/bes.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9df8812ab7afec00de515cec35ccbec5": {
+            "format": "jpg",
+            "id": "9df8812ab7afec00de515cec35ccbec5",
+            "name": "elli.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/elli.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "54117aca953f5ae2dea1f5eb2d109beb": {
+            "format": "jpg",
+            "id": "54117aca953f5ae2dea1f5eb2d109beb",
+            "name": "ellialti.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/ellialti.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba2c95ef2436473de78c605462b9f228": {
+            "format": "jpg",
+            "id": "ba2c95ef2436473de78c605462b9f228",
+            "name": "ellibes.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/ellibes.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d1e8e10755f3b965dd032663061470f": {
+            "format": "jpg",
+            "id": "8d1e8e10755f3b965dd032663061470f",
+            "name": "ellibir.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/ellibir.jpg",
+            "size": {
+                "width": 818,
+                "height": 818
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91457cdb5ee4c27191085b1a6481a81f": {
+            "format": "jpg",
+            "id": "91457cdb5ee4c27191085b1a6481a81f",
+            "name": "ellidokuz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/ellidokuz.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1786b77dc715f824754c2bd093bb2c88": {
+            "format": "jpg",
+            "id": "1786b77dc715f824754c2bd093bb2c88",
+            "name": "ellidort.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/ellidort.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f39c34eafbdb207c35ccec40b29f1ec": {
+            "format": "jpg",
+            "id": "0f39c34eafbdb207c35ccec40b29f1ec",
+            "name": "elliiki.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/elliiki.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a6c1917373c864606de31a4926583d10": {
+            "format": "jpg",
+            "id": "a6c1917373c864606de31a4926583d10",
+            "name": "ellisekiz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/ellisekiz.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52acab02f889e752f788080317443750": {
+            "format": "jpg",
+            "id": "52acab02f889e752f788080317443750",
+            "name": "elliuc.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/elliuc.jpg",
+            "size": {
+                "width": 689,
+                "height": 813
+            },
+            "state": 1,
+            "type": 1
+        },
+        "782aa0c8529319b0559460e86046f595": {
+            "format": "jpg",
+            "id": "782aa0c8529319b0559460e86046f595",
+            "name": "elliyedi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/elliyedi.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2372e89e9b29697601eb43c3e525b8b7": {
+            "format": "jpg",
+            "id": "2372e89e9b29697601eb43c3e525b8b7",
+            "name": "kirk.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirk.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d9f1d7391f2c7e04934ec5deebaadbd": {
+            "format": "jpg",
+            "id": "6d9f1d7391f2c7e04934ec5deebaadbd",
+            "name": "kirkalti.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirkalti.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "549f3e7626378f6b387126104638025a": {
+            "format": "jpg",
+            "id": "549f3e7626378f6b387126104638025a",
+            "name": "kirkbes.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirkbes.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c6a9c4101c5e39f3da1f5f82a5a746a4": {
+            "format": "jpg",
+            "id": "c6a9c4101c5e39f3da1f5f82a5a746a4",
+            "name": "kirkbir.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirkbir.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78dbd09c041f10163d70227b1863e0f2": {
+            "format": "jpg",
+            "id": "78dbd09c041f10163d70227b1863e0f2",
+            "name": "kirkdokuz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirkdokuz.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 1,
+            "type": 1
+        },
+        "4956e20d557170b059f8eab6c901703e": {
+            "format": "jpg",
+            "id": "4956e20d557170b059f8eab6c901703e",
+            "name": "kirkdort.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirkdort.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b9b4e75cc18308aa5bf6f9ebe63071ab": {
+            "format": "jpg",
+            "id": "b9b4e75cc18308aa5bf6f9ebe63071ab",
+            "name": "kirkiki.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirkiki.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11786210a0ddebc548ca28571fed2484": {
+            "format": "jpg",
+            "id": "11786210a0ddebc548ca28571fed2484",
+            "name": "kirksekiz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirksekiz.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad65a3857f3a9e36e7cc82e0ed9ca299": {
+            "format": "jpg",
+            "id": "ad65a3857f3a9e36e7cc82e0ed9ca299",
+            "name": "kirkuc.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirkuc.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 1,
+            "type": 1
+        },
+        "3feadca60bf3e57706331f22d5f7bc20": {
+            "format": "jpg",
+            "id": "3feadca60bf3e57706331f22d5f7bc20",
+            "name": "kirkyedi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/kirkyedi.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d38739abd15da6891aa48e018f8c306": {
+            "format": "jpg",
+            "id": "6d38739abd15da6891aa48e018f8c306",
+            "name": "on.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/on.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2950e1c9a2d1e352a8bacb8f1180e637": {
+            "format": "jpg",
+            "id": "2950e1c9a2d1e352a8bacb8f1180e637",
+            "name": "onalti.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/onalti.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a865fb4f92352a89ab66f95595fad249": {
+            "format": "jpg",
+            "id": "a865fb4f92352a89ab66f95595fad249",
+            "name": "onbes.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/onbes.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b757afe5f19b3bfceaa22b32c073216": {
+            "format": "jpg",
+            "id": "8b757afe5f19b3bfceaa22b32c073216",
+            "name": "onbir.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/onbir.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46ee2f04e10809830fa992d0bd9177ac": {
+            "format": "jpg",
+            "id": "46ee2f04e10809830fa992d0bd9177ac",
+            "name": "ondokuz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/ondokuz.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "046766ac12047aae5ea647bfff7bc274": {
+            "format": "jpg",
+            "id": "046766ac12047aae5ea647bfff7bc274",
+            "name": "ondort.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/ondort.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0261067358ff5718c87cc8ca3326064": {
+            "format": "jpg",
+            "id": "d0261067358ff5718c87cc8ca3326064",
+            "name": "oniki.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/oniki.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5bb0a27d46004b54a0107b75abca02cc": {
+            "format": "jpg",
+            "id": "5bb0a27d46004b54a0107b75abca02cc",
+            "name": "onsekiz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/onsekiz.jpg",
+            "size": {
+                "width": 671,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfe76a7b66a50a7f109684d62822c26b": {
+            "format": "jpg",
+            "id": "cfe76a7b66a50a7f109684d62822c26b",
+            "name": "onuc.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/onuc.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2af31d6d2823d9d83de54ad04a5eb36f": {
+            "format": "jpg",
+            "id": "2af31d6d2823d9d83de54ad04a5eb36f",
+            "name": "onyedi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/onyedi.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 1,
+            "type": 1
+        },
+        "bf531071be6719ea49089644baf67d50": {
+            "format": "jpg",
+            "id": "bf531071be6719ea49089644baf67d50",
+            "name": "otuz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuz.jpg",
+            "size": {
+                "width": 674,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78ba953ebe4f9c08b886aedf2e503d2f": {
+            "format": "jpg",
+            "id": "78ba953ebe4f9c08b886aedf2e503d2f",
+            "name": "otuzalti.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuzalti.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cf0c764f024cae4172ebb54802cb39a4": {
+            "format": "jpg",
+            "id": "cf0c764f024cae4172ebb54802cb39a4",
+            "name": "otuzbes.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuzbes.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "70f983c972b8d8ef471fead2ff9308ac": {
+            "format": "jpg",
+            "id": "70f983c972b8d8ef471fead2ff9308ac",
+            "name": "otuzbir.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuzbir.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3c4c326bb19a0615df1f0138a9f1e5dc": {
+            "format": "jpg",
+            "id": "3c4c326bb19a0615df1f0138a9f1e5dc",
+            "name": "otuzdokuz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuzdokuz.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9273aecec751c643b73cd413f9dde77": {
+            "format": "jpg",
+            "id": "f9273aecec751c643b73cd413f9dde77",
+            "name": "otuzdort.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuzdort.jpg",
+            "size": {
+                "width": 652,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4b01cea6063e34fe1c9886b6817ffc2a": {
+            "format": "jpg",
+            "id": "4b01cea6063e34fe1c9886b6817ffc2a",
+            "name": "otuziki.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuziki.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "810155d284002faa761c0fcdacaad4ee": {
+            "format": "jpg",
+            "id": "810155d284002faa761c0fcdacaad4ee",
+            "name": "otuzsekiz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuzsekiz.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 1,
+            "type": 1
+        },
+        "d28a57afe1e374b615080e195b31f97f": {
+            "format": "jpg",
+            "id": "d28a57afe1e374b615080e195b31f97f",
+            "name": "otuzuc.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuzuc.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b143a026f7648d1715fdc0098fff42a5": {
+            "format": "jpg",
+            "id": "b143a026f7648d1715fdc0098fff42a5",
+            "name": "otuzyedi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/otuzyedi.jpg",
+            "size": {
+                "width": 662,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0e7edf7dd983e443a46af1bb69bbfec": {
+            "format": "jpg",
+            "id": "d0e7edf7dd983e443a46af1bb69bbfec",
+            "name": "sekiz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/sekiz.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 1,
+            "type": 1
+        },
+        "ae01d44274155007c1dd2bcd0fd0026e": {
+            "format": "jpg",
+            "id": "ae01d44274155007c1dd2bcd0fd0026e",
+            "name": "seksen.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/seksen.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9fd1c15b54ca388ff3db2a698795e161": {
+            "format": "jpg",
+            "id": "9fd1c15b54ca388ff3db2a698795e161",
+            "name": "seksenalti.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/seksenalti.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "383a4e4f820dfd05dcecba5a9d8fdc1d": {
+            "format": "jpg",
+            "id": "383a4e4f820dfd05dcecba5a9d8fdc1d",
+            "name": "seksenbes.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/seksenbes.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b35d09a8228addc8790c56ee72ae8bdb": {
+            "format": "jpg",
+            "id": "b35d09a8228addc8790c56ee72ae8bdb",
+            "name": "seksenbir.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/seksenbir.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "762c24412114781b726e35acf06b785c": {
+            "format": "jpg",
+            "id": "762c24412114781b726e35acf06b785c",
+            "name": "seksendort.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/seksendort.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e1ac88a40e075830cbcf681f0000d8c": {
+            "format": "jpg",
+            "id": "2e1ac88a40e075830cbcf681f0000d8c",
+            "name": "sekseniki.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/sekseniki.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b552ee7e0b9b8d811689d0a19a77874e": {
+            "format": "jpg",
+            "id": "b552ee7e0b9b8d811689d0a19a77874e",
+            "name": "seksenuc.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/seksenuc.jpg",
+            "size": {
+                "width": 656,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e4691b4759e2ae5f767a2e08c6506124": {
+            "format": "jpg",
+            "id": "e4691b4759e2ae5f767a2e08c6506124",
+            "name": "seksenyedi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/seksenyedi.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2aa9a3567ed6e46a03b9d6ec1c9c7d6c": {
+            "format": "jpg",
+            "id": "2aa9a3567ed6e46a03b9d6ec1c9c7d6c",
+            "name": "uc.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/uc.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92be4172760a154bd86d3213704a9690": {
+            "format": "jpg",
+            "id": "92be4172760a154bd86d3213704a9690",
+            "name": "yedi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yedi.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "386d92d9be8da57e664c7161318a4792": {
+            "format": "jpg",
+            "id": "386d92d9be8da57e664c7161318a4792",
+            "name": "yetmis.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmis.jpg",
+            "size": {
+                "width": 670,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42a8d7f4346cc9163459471def1d081d": {
+            "format": "jpg",
+            "id": "42a8d7f4346cc9163459471def1d081d",
+            "name": "yetmisalti.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmisalti.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7a631db3d2d2a8b1d08d1ed7dcf117f": {
+            "format": "jpg",
+            "id": "e7a631db3d2d2a8b1d08d1ed7dcf117f",
+            "name": "yetmisbes.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmisbes.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc03b8b03639ad7ae9a477acdd72b2c3": {
+            "format": "jpg",
+            "id": "dc03b8b03639ad7ae9a477acdd72b2c3",
+            "name": "yetmisbir.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmisbir.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac8ac6b67dfe174a80d8f48c9e3bffbd": {
+            "format": "jpg",
+            "id": "ac8ac6b67dfe174a80d8f48c9e3bffbd",
+            "name": "yetmisdokuz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmisdokuz.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99e6bf2eb392a5ec188884fc292568d3": {
+            "format": "jpg",
+            "id": "99e6bf2eb392a5ec188884fc292568d3",
+            "name": "yetmisdort.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmisdort.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9a49c53d0937d336161731764f5b2be": {
+            "format": "jpg",
+            "id": "a9a49c53d0937d336161731764f5b2be",
+            "name": "yetmisiki.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmisiki.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53917c4d8555bbee31e16892f01a6333": {
+            "format": "jpg",
+            "id": "53917c4d8555bbee31e16892f01a6333",
+            "name": "yetmissekiz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmissekiz.jpg",
+            "size": {
+                "width": 998,
+                "height": 818
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e178feb4e9d2ff4488eec7db27d0aa86": {
+            "format": "jpg",
+            "id": "e178feb4e9d2ff4488eec7db27d0aa86",
+            "name": "yetmisuc.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmisuc.jpg",
+            "size": {
+                "width": 671,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e234be4eda795dbb017c82d39775c1c8": {
+            "format": "jpg",
+            "id": "e234be4eda795dbb017c82d39775c1c8",
+            "name": "yetmisyedi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yetmisyedi.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3daaed8aa8476f8b97e53f8226587f5": {
+            "format": "jpg",
+            "id": "c3daaed8aa8476f8b97e53f8226587f5",
+            "name": "yirmi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmi.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a6fbf3abfc2a9668c0578da45edb9f70": {
+            "format": "jpg",
+            "id": "a6fbf3abfc2a9668c0578da45edb9f70",
+            "name": "yirmialti.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmialti.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11ebdedb07acad62e875f356808f9271": {
+            "format": "jpg",
+            "id": "11ebdedb07acad62e875f356808f9271",
+            "name": "yirmibes.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmibes.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d959c94a109da0bf77ea536ed8c14851": {
+            "format": "jpg",
+            "id": "d959c94a109da0bf77ea536ed8c14851",
+            "name": "yirmibir.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmibir.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "353dd7a015a4e2486c85366d2ec1817d": {
+            "format": "jpg",
+            "id": "353dd7a015a4e2486c85366d2ec1817d",
+            "name": "yirmidokuz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmidokuz.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa0dafbb7791972bf4ce76244ed73846": {
+            "format": "jpg",
+            "id": "fa0dafbb7791972bf4ce76244ed73846",
+            "name": "yirmidort.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmidort.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a6b00003f9af87e4390fa7b2e092e4ee": {
+            "format": "jpg",
+            "id": "a6b00003f9af87e4390fa7b2e092e4ee",
+            "name": "yirmiiki.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmiiki.jpg",
+            "size": {
+                "width": 668,
+                "height": 815
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53168a4bb98ee762a0e8238c200e651c": {
+            "format": "jpg",
+            "id": "53168a4bb98ee762a0e8238c200e651c",
+            "name": "yirmisekiz.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmisekiz.jpg",
+            "size": {
+                "width": 666,
+                "height": 811
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f44e2c4f27649504aaf6cfe71cfce630": {
+            "format": "jpg",
+            "id": "f44e2c4f27649504aaf6cfe71cfce630",
+            "name": "yirmiuc.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmiuc.jpg",
+            "size": {
+                "width": 712,
+                "height": 812
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7fde8b554fdc07bfe5f052688e08678": {
+            "format": "jpg",
+            "id": "c7fde8b554fdc07bfe5f052688e08678",
+            "name": "yirmiyedi.jpg",
+            "path": "file:D:/kidneyStoneDetection/dataset/yirmiyedi.jpg",
+            "size": {
+                "width": 677,
+                "height": 813
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

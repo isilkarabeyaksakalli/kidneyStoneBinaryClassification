@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6d9f1d7391f2c7e04934ec5deebaadbd",
+        "name": "kirkalti.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/kirkalti.jpg",
+        "size": {
+            "width": 668,
+            "height": 815
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kt2VDI7E-",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 703.422619047619,
+                "width": 127.34300791556728,
+                "left": 201.08022757255935,
+                "top": 75.85497835497836
+            },
+            "points": [
+                {
+                    "x": 201.08022757255935,
+                    "y": 75.85497835497836
+                },
+                {
+                    "x": 328.42323548812664,
+                    "y": 75.85497835497836
+                },
+                {
+                    "x": 328.42323548812664,
+                    "y": 779.2775974025974
+                },
+                {
+                    "x": 201.08022757255935,
+                    "y": 779.2775974025974
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

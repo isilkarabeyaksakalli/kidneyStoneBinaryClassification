@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4f0418dce50d589a8606a1940d6986d5",
+        "name": "altmissekiz.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/altmissekiz.jpg",
+        "size": {
+            "width": 677,
+            "height": 813
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "dWyDgS0-q",
+            "type": "RECTANGLE",
+            "tags": [
+                "stone"
+            ],
+            "boundingBox": {
+                "height": 108.22402597402598,
+                "width": 97.5935064935065,
+                "left": 396.720900974026,
+                "top": 248.12337662337663
+            },
+            "points": [
+                {
+                    "x": 396.720900974026,
+                    "y": 248.12337662337663
+                },
+                {
+                    "x": 494.3144074675325,
+                    "y": 248.12337662337663
+                },
+                {
+                    "x": 494.3144074675325,
+                    "y": 356.3474025974026
+                },
+                {
+                    "x": 396.720900974026,
+                    "y": 356.3474025974026
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

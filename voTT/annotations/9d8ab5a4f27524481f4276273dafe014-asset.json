@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9d8ab5a4f27524481f4276273dafe014",
+        "name": "altmisiki.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/altmisiki.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0D8N5-Wl3",
+            "type": "RECTANGLE",
+            "tags": [
+                "stone"
+            ],
+            "boundingBox": {
+                "height": 25.4534632034632,
+                "width": 27.640316205533598,
+                "left": 282.017601284585,
+                "top": 286.5708874458874
+            },
+            "points": [
+                {
+                    "x": 282.017601284585,
+                    "y": 286.5708874458874
+                },
+                {
+                    "x": 309.65791749011856,
+                    "y": 286.5708874458874
+                },
+                {
+                    "x": 309.65791749011856,
+                    "y": 312.02435064935065
+                },
+                {
+                    "x": 282.017601284585,
+                    "y": 312.02435064935065
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

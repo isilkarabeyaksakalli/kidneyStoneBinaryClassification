@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4956e20d557170b059f8eab6c901703e",
+        "name": "kirkdort.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/kirkdort.jpg",
+        "size": {
+            "width": 668,
+            "height": 815
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "1ckXe4WxJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 690.6331168831169,
+                "width": 242.34828496042215,
+                "left": 147.3229716358839,
+                "top": 67.47564935064935
+            },
+            "points": [
+                {
+                    "x": 147.3229716358839,
+                    "y": 67.47564935064935
+                },
+                {
+                    "x": 389.6712565963061,
+                    "y": 67.47564935064935
+                },
+                {
+                    "x": 389.6712565963061,
+                    "y": 758.1087662337662
+                },
+                {
+                    "x": 147.3229716358839,
+                    "y": 758.1087662337662
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

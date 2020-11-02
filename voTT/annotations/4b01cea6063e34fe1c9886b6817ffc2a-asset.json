@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4b01cea6063e34fe1c9886b6817ffc2a",
+        "name": "otuziki.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/otuziki.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "tWF-vGMLS",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 599.4729437229436,
+                "width": 238.67193675889328,
+                "left": 164.4365736166008,
+                "top": 142.18831168831167
+            },
+            "points": [
+                {
+                    "x": 164.4365736166008,
+                    "y": 142.18831168831167
+                },
+                {
+                    "x": 403.10851037549406,
+                    "y": 142.18831168831167
+                },
+                {
+                    "x": 403.10851037549406,
+                    "y": 741.6612554112554
+                },
+                {
+                    "x": 164.4365736166008,
+                    "y": 741.6612554112554
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

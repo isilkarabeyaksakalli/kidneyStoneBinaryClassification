@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a865fb4f92352a89ab66f95595fad249",
+        "name": "onbes.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/onbes.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "x2inoRlTd",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 324.3122294372293,
+                "width": 143.90513833992097,
+                "left": 315.8893280632411,
+                "top": 291.8371212121211
+            },
+            "points": [
+                {
+                    "x": 315.8893280632411,
+                    "y": 291.8371212121211
+                },
+                {
+                    "x": 459.79446640316206,
+                    "y": 291.8371212121211
+                },
+                {
+                    "x": 459.79446640316206,
+                    "y": 616.1493506493504
+                },
+                {
+                    "x": 315.8893280632411,
+                    "y": 616.1493506493504
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

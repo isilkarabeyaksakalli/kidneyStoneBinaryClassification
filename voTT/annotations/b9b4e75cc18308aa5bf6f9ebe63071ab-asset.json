@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b9b4e75cc18308aa5bf6f9ebe63071ab",
+        "name": "kirkiki.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/kirkiki.jpg",
+        "size": {
+            "width": 668,
+            "height": 815
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-56W2audq",
+            "type": "RECTANGLE",
+            "tags": [
+                "stone"
+            ],
+            "boundingBox": {
+                "height": 20.727813852813853,
+                "width": 31.725593667546175,
+                "left": 450.4786444591029,
+                "top": 56.45021645021645
+            },
+            "points": [
+                {
+                    "x": 450.4786444591029,
+                    "y": 56.45021645021645
+                },
+                {
+                    "x": 482.20423812664905,
+                    "y": 56.45021645021645
+                },
+                {
+                    "x": 482.20423812664905,
+                    "y": 77.17803030303031
+                },
+                {
+                    "x": 450.4786444591029,
+                    "y": 77.17803030303031
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

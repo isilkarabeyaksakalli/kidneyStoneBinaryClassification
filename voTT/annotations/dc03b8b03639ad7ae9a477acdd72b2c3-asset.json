@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dc03b8b03639ad7ae9a477acdd72b2c3",
+        "name": "yetmisbir.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yetmisbir.jpg",
+        "size": {
+            "width": 677,
+            "height": 813
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aI4NRgjnH",
+            "type": "RECTANGLE",
+            "tags": [
+                "stone"
+            ],
+            "boundingBox": {
+                "height": 18.037337662337663,
+                "width": 18.903246753246755,
+                "left": 216.48064123376625,
+                "top": 227.0064935064935
+            },
+            "points": [
+                {
+                    "x": 216.48064123376625,
+                    "y": 227.0064935064935
+                },
+                {
+                    "x": 235.383887987013,
+                    "y": 227.0064935064935
+                },
+                {
+                    "x": 235.383887987013,
+                    "y": 245.0438311688312
+                },
+                {
+                    "x": 216.48064123376625,
+                    "y": 245.0438311688312
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

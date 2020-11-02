@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c3daaed8aa8476f8b97e53f8226587f5",
+        "name": "yirmi.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yirmi.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nGcvZEnJV",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 571.8252164502162,
+                "width": 200.06324110671937,
+                "left": 336.0711462450593,
+                "top": 58.806277056277025
+            },
+            "points": [
+                {
+                    "x": 336.0711462450593,
+                    "y": 58.806277056277025
+                },
+                {
+                    "x": 536.1343873517786,
+                    "y": 58.806277056277025
+                },
+                {
+                    "x": 536.1343873517786,
+                    "y": 630.6314935064933
+                },
+                {
+                    "x": 336.0711462450593,
+                    "y": 630.6314935064933
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

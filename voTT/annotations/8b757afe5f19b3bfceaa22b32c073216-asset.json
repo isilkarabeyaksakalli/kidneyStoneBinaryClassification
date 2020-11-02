@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8b757afe5f19b3bfceaa22b32c073216",
+        "name": "onbir.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/onbir.jpg",
+        "size": {
+            "width": 668,
+            "height": 815
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "I70fBH_u7",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 548.6255411255412,
+                "width": 279.51294525065964,
+                "left": 142.7651715039578,
+                "top": 119.95670995670996
+            },
+            "points": [
+                {
+                    "x": 142.7651715039578,
+                    "y": 119.95670995670996
+                },
+                {
+                    "x": 422.27811675461743,
+                    "y": 119.95670995670996
+                },
+                {
+                    "x": 422.27811675461743,
+                    "y": 668.5822510822511
+                },
+                {
+                    "x": 142.7651715039578,
+                    "y": 668.5822510822511
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

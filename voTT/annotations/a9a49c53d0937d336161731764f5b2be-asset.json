@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a9a49c53d0937d336161731764f5b2be",
+        "name": "yetmisiki.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yetmisiki.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "x6unFLyRJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "stone"
+            ],
+            "boundingBox": {
+                "height": 17.115259740259738,
+                "width": 21.49802371541502,
+                "left": 369.32590167984193,
+                "top": 257.6066017316017
+            },
+            "points": [
+                {
+                    "x": 369.32590167984193,
+                    "y": 257.6066017316017
+                },
+                {
+                    "x": 390.82392539525694,
+                    "y": 257.6066017316017
+                },
+                {
+                    "x": 390.82392539525694,
+                    "y": 274.7218614718615
+                },
+                {
+                    "x": 369.32590167984193,
+                    "y": 274.7218614718615
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

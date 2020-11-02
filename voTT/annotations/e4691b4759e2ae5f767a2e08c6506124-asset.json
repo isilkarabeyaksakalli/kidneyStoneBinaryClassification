@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e4691b4759e2ae5f767a2e08c6506124",
+        "name": "seksenyedi.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/seksenyedi.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ja4DNwIlN",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 598.5952380952382,
+                "width": 239.89902420948627,
+                "left": 343.96837944664026,
+                "top": 132.5335497835497
+            },
+            "points": [
+                {
+                    "x": 343.96837944664026,
+                    "y": 132.5335497835497
+                },
+                {
+                    "x": 583.8674036561265,
+                    "y": 132.5335497835497
+                },
+                {
+                    "x": 583.8674036561265,
+                    "y": 731.1287878787879
+                },
+                {
+                    "x": 343.96837944664026,
+                    "y": 731.1287878787879
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

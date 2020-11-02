@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2950e1c9a2d1e352a8bacb8f1180e637",
+        "name": "onalti.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/onalti.jpg",
+        "size": {
+            "width": 668,
+            "height": 815
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "K_fkdpCTI",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 494.3804112554113,
+                "width": 158.62796833773086,
+                "left": 228.84012203166228,
+                "top": 214.77543290043292
+            },
+            "points": [
+                {
+                    "x": 228.84012203166228,
+                    "y": 214.77543290043292
+                },
+                {
+                    "x": 387.4680903693931,
+                    "y": 214.77543290043292
+                },
+                {
+                    "x": 387.4680903693931,
+                    "y": 709.1558441558442
+                },
+                {
+                    "x": 228.84012203166228,
+                    "y": 709.1558441558442
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

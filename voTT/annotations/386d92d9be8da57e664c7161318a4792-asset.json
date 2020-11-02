@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "386d92d9be8da57e664c7161318a4792",
+        "name": "yetmis.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yetmis.jpg",
+        "size": {
+            "width": 670,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wbtlkmbg2",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 640.7251082251081,
+                "width": 115.47825998036649,
+                "left": 378.848167539267,
+                "top": 165.44751082251082
+            },
+            "points": [
+                {
+                    "x": 378.848167539267,
+                    "y": 165.44751082251082
+                },
+                {
+                    "x": 494.32642751963346,
+                    "y": 165.44751082251082
+                },
+                {
+                    "x": 494.32642751963346,
+                    "y": 806.1726190476189
+                },
+                {
+                    "x": 378.848167539267,
+                    "y": 806.1726190476189
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

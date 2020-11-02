@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "53168a4bb98ee762a0e8238c200e651c",
+        "name": "yirmisekiz.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yirmisekiz.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "lOPjKVwN2",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 572.702922077922,
+                "width": 173.2112771739131,
+                "left": 348.3557312252964,
+                "top": 85.57629870129867
+            },
+            "points": [
+                {
+                    "x": 348.3557312252964,
+                    "y": 85.57629870129867
+                },
+                {
+                    "x": 521.5670083992095,
+                    "y": 85.57629870129867
+                },
+                {
+                    "x": 521.5670083992095,
+                    "y": 658.2792207792207
+                },
+                {
+                    "x": 348.3557312252964,
+                    "y": 658.2792207792207
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

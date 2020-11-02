@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "f44e2c4f27649504aaf6cfe71cfce630",
+        "name": "yirmiuc.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yirmiuc.jpg",
+        "size": {
+            "width": 712,
+            "height": 812
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "7TAw-80Z1",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 641.5151515151515,
+                "width": 231.7158950617284,
+                "left": 363.03209876543207,
+                "top": 87
+            },
+            "points": [
+                {
+                    "x": 363.03209876543207,
+                    "y": 87
+                },
+                {
+                    "x": 594.7479938271605,
+                    "y": 87
+                },
+                {
+                    "x": 594.7479938271605,
+                    "y": 728.5151515151515
+                },
+                {
+                    "x": 363.03209876543207,
+                    "y": 728.5151515151515
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

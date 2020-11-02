@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b143a026f7648d1715fdc0098fff42a5",
+        "name": "otuzyedi.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/otuzyedi.jpg",
+        "size": {
+            "width": 662,
+            "height": 813
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "0Sk_SuwAK",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 596.9918831168832,
+                "width": 186.11194804116855,
+                "left": 274.2948207171315,
+                "top": 129.3409090909091
+            },
+            "points": [
+                {
+                    "x": 274.2948207171315,
+                    "y": 129.3409090909091
+                },
+                {
+                    "x": 460.4067687583,
+                    "y": 129.3409090909091
+                },
+                {
+                    "x": 460.4067687583,
+                    "y": 726.3327922077923
+                },
+                {
+                    "x": 274.2948207171315,
+                    "y": 726.3327922077923
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

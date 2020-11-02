@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e178feb4e9d2ff4488eec7db27d0aa86",
+        "name": "yetmisuc.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yetmisuc.jpg",
+        "size": {
+            "width": 671,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gmM-3Z0fs",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 550.7602813852814,
+                "width": 182.44183006535948,
+                "left": 161.61013071895425,
+                "top": 218.54870129870127
+            },
+            "points": [
+                {
+                    "x": 161.61013071895425,
+                    "y": 218.54870129870127
+                },
+                {
+                    "x": 344.05196078431374,
+                    "y": 218.54870129870127
+                },
+                {
+                    "x": 344.05196078431374,
+                    "y": 769.3089826839827
+                },
+                {
+                    "x": 161.61013071895425,
+                    "y": 769.3089826839827
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

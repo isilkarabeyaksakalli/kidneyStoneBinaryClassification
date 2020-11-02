@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "ba2c95ef2436473de78c605462b9f228",
+        "name": "ellibes.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/ellibes.jpg",
+        "size": {
+            "width": 666,
+            "height": 811
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "ReS5WLgcl",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 599.9117965367965,
+                "width": 197.4308300395257,
+                "left": 224.10455780632412,
+                "top": 122.87878787878788
+            },
+            "points": [
+                {
+                    "x": 224.10455780632412,
+                    "y": 122.87878787878788
+                },
+                {
+                    "x": 421.5353878458498,
+                    "y": 122.87878787878788
+                },
+                {
+                    "x": 421.5353878458498,
+                    "y": 722.7905844155844
+                },
+                {
+                    "x": 224.10455780632412,
+                    "y": 722.7905844155844
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

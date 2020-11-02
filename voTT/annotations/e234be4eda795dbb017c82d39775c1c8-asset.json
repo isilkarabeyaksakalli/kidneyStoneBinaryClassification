@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e234be4eda795dbb017c82d39775c1c8",
+        "name": "yetmisyedi.jpg",
+        "path": "file:D:/kidneyStoneDetection/dataset/yetmisyedi.jpg",
+        "size": {
+            "width": 668,
+            "height": 815
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "pdEVUZ1Cm",
+            "type": "RECTANGLE",
+            "tags": [
+                "dj_cateter"
+            ],
+            "boundingBox": {
+                "height": 687.987012987013,
+                "width": 154.37310356200518,
+                "left": 332.23746701846966,
+                "top": 57.7732683982684
+            },
+            "points": [
+                {
+                    "x": 332.23746701846966,
+                    "y": 57.7732683982684
+                },
+                {
+                    "x": 486.6105705804748,
+                    "y": 57.7732683982684
+                },
+                {
+                    "x": 486.6105705804748,
+                    "y": 745.7602813852814
+                },
+                {
+                    "x": 332.23746701846966,
+                    "y": 745.7602813852814
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
