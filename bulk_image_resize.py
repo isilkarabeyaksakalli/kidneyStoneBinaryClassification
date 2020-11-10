@@ -5,7 +5,7 @@ from PIL import Image
 DEFAULT_SIZE = (320, 180)
 
 
-def resize_image(input_dir, infile, output_dir="resized", size=DEFAULT_SIZE):
+def resize_image(input_dir, infile, output_dir="resized6480", size=DEFAULT_SIZE):
     outfile = os.path.splitext(infile)[0] + "_resized"
     extension = os.path.splitext(infile)[1]
 
@@ -39,7 +39,7 @@ if __name__ == "__main__":
     if args.output_dir:
         output_dir = args.output_dir
     else:
-        output_dir = dir + '/resized'
+        output_dir = dir + '/resized6480'
 
     if args.width and args.height:
         size = (int(args.width), int(args.height))

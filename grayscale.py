@@ -11,8 +11,8 @@ import os,glob
 from os import listdir,makedirs
 
 from os.path import isfile,join
-path = 'C:/keras/resized' # Source Folder
-dstpath = 'C:/keras/grayscale' # Destination Folder
+path = 'C:/keras/dataset' # Source Folder
+dstpath = 'C:/keras/resized6480' # Destination Folder
 try:
     makedirs(dstpath)
 except:
