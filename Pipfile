@@ -6,7 +6,14 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-tensorflow = "~=2.2.0"
+imblearn = "*"
+pytz = "*"
+pandas = "*"
+jupyter = "*"
+matplotlib = "*"
+tensorflow = "~=2.2.2"
+ipykernel = "*"
+keras = "*"
 
 [requires]
 python_version = "3.8"
